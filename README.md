@@ -50,5 +50,3 @@ This will also listen for a debugger on port `5005`. If you want to wait for the
 
 If you don’t want the debugger at all you can use `-Ddebug=false`
 
-.
-
