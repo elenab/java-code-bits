@@ -1,8 +1,7 @@
 Java Code Samples
 =========================
 
-## Apache Camel Examples
-### Camel Java Router Project
+### Apache Camel Java Router Project
 ```
 cd apache-camel-example1
 ```
