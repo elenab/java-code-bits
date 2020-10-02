@@ -2,7 +2,10 @@ Java Code Samples
 =========================
 
 ## Apache Camel Examples
-###Camel Java Router Project
+### Camel Java Router Project
+```
+cd apache-camel-example1
+```
 
 To build this project use
 
