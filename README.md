@@ -10,7 +10,7 @@ To build this project use
 
     mvn install
 
-To compile this project from within Maven, use
+To compile this from within Maven, use
 ```
 mvn compile
 ```
