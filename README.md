@@ -32,7 +32,7 @@ Then check that the endpoint returns as expected:
 ```
  curl -w "\n" http://localhost:8080/hello/greeting/Elena  
 ```
-returns:
+Should return:
 ```
 hello Elena
 ```
